@@ -1,8 +1,3 @@
-'''
-MIT License
-Copyright (c) 2019 Fanjin Zeng
-This work is licensed under the terms of the MIT license, see <https://opensource.org/licenses/MIT>.
-'''
 # idx is node number of each node: idx ranges from (0,n), where n is max number of nodes(iterations)
 import numpy as np
 from random import random
